@@ -1,6 +1,6 @@
 <?php
 
-namespace Web\UserAgent\Test;
+namespace Package\Interface\Test;
 
 interface UserAgentInterface
 {
