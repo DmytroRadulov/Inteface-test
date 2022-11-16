@@ -1,0 +1,21 @@
+{
+  "name": "dmytro/package-interface-test",
+  "description": "short",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "DmytroRadulov",
+      "email": "radulovdima1995@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Package\\Interface\\Test\\": "./src"
+    }
+  },
+  "require": {
+    "laravel/framework": "^9.19"
+  }
+}
